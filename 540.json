@@ -11,7 +11,5 @@
   "searchConfig": {
         "komkode": ["540"]
   },
-  "brandName": "Sønderborg test Kommune",
-  
-  "aboutBox": "<div id='ge-licenses'></div>"
+  "brandName": "Sønderborg test Kommune"
 }
