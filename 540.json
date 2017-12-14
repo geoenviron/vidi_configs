@@ -1,6 +1,6 @@
 {
   "schemata": [
-    "soenderborg_540",
+    "_540",
     "gc2_io_dk_matrikel",
     "gc2_io_dk_dai",
     "gc2_io_dk_plansystemdk",
@@ -11,5 +11,5 @@
   "searchConfig": {
         "komkode": ["540"]
   },
-  "brandName": "Sønderborg test Kommune"
+  "brandName": "Sønderborg Kommune"
 }
