@@ -1,1 +1,12 @@
-{"schemata":["_730","gc2_io_dk_matrikel","gc2_io_dk_dai","gc2_io_dk_plansystemdk","gc2_io_dk_kulturarvsstyrelsen","gc2_io_dk_geus"],"enabledSearch":"danish","searchConfig":{"komkode":["730"]},"brandName":"Randers"}
+{"schemata":[
+  "_730",
+  "gc2_io_dk_matrikel",
+  "gc2_io_dk_dai",
+  "gc2_io_dk_plansystemdk",
+  "gc2_io_dk_kulturarvsstyrelsen",
+  "gc2_io_dk_geus"
+],
+ 
+ "enabledSearch":"danish",
+ "searchConfig":{"komkode":["730"]},
+ "brandName":"Randers"}
