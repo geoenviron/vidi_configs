@@ -16,7 +16,8 @@
   
   "baseLayers":[
     {"id": "googleStreets", "name": "Google Streets"},
-    {"id": "osm", "name": "Open Street Map"}
+    {"id": "osm", "name": "Open Street Map"},
+        {"id": "geodk", "name": "GeoDanmark kort"}
     
   ]
 
