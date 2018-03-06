@@ -13,9 +13,6 @@
   "searchConfig":{"komkode":["540"]},
   
   "brandName":"Sønderborg TEST",
-  "baseLayers":[
-    {"id": "googleStreets", "name": "Google Streets"},
-    {"id": "osm", "name": "Open Street Map"}
-  ]
+
 
 }
