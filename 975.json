@@ -17,7 +17,11 @@
   "baseLayers":[
     {"id": "googleStreets", "name": "Google Streets"},
     {"id": "osm", "name": "Open Street Map"},
-        {"id": "geodk", "name": "GeoDanmark kort"}
+        {"id": "geodk", "name": "GeoDanmark kort"},
+        {"id": "luftfotoserier.geodanmark_2017_12_5cm", "name": "Luftfoto 2017"},
+    {"id": "luftfotoserier.geodanmark_2016_12_5cm", "name": "Luftfoto 2016"},
+    {"id": "kortforsyningen.dtk_lave_maalebordsblade", "name": "Lave målebordsblade"},
+    {"id": "kortforsyningen.dtk_hoeje_maalebordsblade", "name": "Høje målebordsblade"}
     
   ]
 
