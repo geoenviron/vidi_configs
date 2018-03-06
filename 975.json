@@ -15,7 +15,7 @@
   "brandName":"Sønderborg TEST",
   "baseLayers":[
     {"id": "googleStreets", "name": "Google Streets"},
-    {"id": "osm", "Open Street Map"}
+    {"id": "osm", "name": "Open Street Map"}
   ]
 
 }
