@@ -14,7 +14,7 @@
   
   "enabledSearch":"danish",
   
-  "searchConfig":{},
+  "searchConfig":{"komkode":[]},
   
   "brandName":"GeoIndustri TEST"
 
