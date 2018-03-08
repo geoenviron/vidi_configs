@@ -14,7 +14,8 @@
   
   "enabledSearch":"danish",
   
-  "searchConfig":{"komkode":[1084]},
+  "searchConfig":{"komkode":["1084","1085"]},
+  
   
   "brandName":"GeoIndustri TEST"
 
