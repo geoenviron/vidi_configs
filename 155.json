@@ -1,1 +1,21 @@
-{"schemata":["_155","gc2_io_dk_matrikel","gc2_io_dk_dai","gc2_io_dk_plansystemdk","gc2_io_dk_kulturarvsstyrelsen","gc2_io_dk_geus"],"enabledSearch":"danish","searchConfig":{"komkode":["155"]},"brandName":"Dragør"}
+{
+  "schemata": [
+    "_155",
+    "gc2_io_dk_matrikel",
+    "gc2_io_dk_dai",
+    "gc2_io_dk_geodk",
+    "gc2_io_dk_dar",
+    "dhm",
+    "gc2_io_dk_dagi",
+    "gc2_io_dk_plansystemdk",
+    "gc2_io_dk_kulturarvsstyrelsen",
+    "gc2_io_dk_geus"
+  ],
+  "enabledSearch": "danish",
+  "searchConfig": {
+    "komkode": [
+      "155"
+    ]
+  },
+  "brandName": "Dragør"
+}
