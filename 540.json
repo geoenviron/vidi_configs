@@ -17,5 +17,9 @@
       "540"
     ]
   },
-  "brandName": "Sønderborg"
+  "brandName": "Sønderborg",
+  
+  "enabledExtensions": [
+    "conflictSearch"
+  ]
 }
