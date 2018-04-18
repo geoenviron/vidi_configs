@@ -16,6 +16,11 @@
   "enabledSearch":"danish",
   "searchConfig":{"komkode":["540"]},
   
-  "brandName":"Sønderborg TEST"
+  "brandName":"Sønderborg TEST",
+   
+  "enabledExtensions": [
+    "conflictSearch",
+    "geokon"
+  ]
 
 }
