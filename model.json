@@ -1,0 +1,58 @@
+{
+    "Companies": {
+        "alias"": "Virksomheder",
+        "seqNoType": "virk",
+        "color": "#ffb900",
+        "fields": [
+            {
+                "key": "SeqNo",
+                "alias": "SeqNo"
+
+            }, {
+                "key": "SeqNoType",
+                "alias": "SeqNoType"
+
+            }, {
+                "key": "Id",
+                "alias": "Lok nr."
+
+            }, {
+                "key": "Name",
+                "alias": "Virksomhedsnavn"
+
+            }, {
+                "key": "Status",
+                "alias": "Status"
+
+            }, {
+                "key": "MainActivity",
+                "alias": "Hovedaktivitet"
+
+            }, {
+                "key": "SecondaryActivity",
+                "alias": "bi-ktivitet"
+
+            }, {
+                "key": "EstablishDate",
+                "alias": "Etableret"
+
+            }, {
+                "key": "LastInspectionDate",
+                "alias": "Tilsyn"
+
+            }, {
+                "key": "EnvApprovalDate",
+                "alias": "Miljøgodk"
+
+            }, {
+                "key": "OfficerId",
+                "alias": "Sagsbehandler"
+
+            }, {
+                "key": "GELink",
+                "alias": "GELink"
+
+            }
+        ]
+    }
+}
