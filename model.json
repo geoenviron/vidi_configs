@@ -1,6 +1,6 @@
 {
     "Companies": {
-        "alias"": "Virksomheder",
+        "alias": "Virksomheder",
         "seqNoType": "virk",
         "color": "#ffb900",
         "fields": [
