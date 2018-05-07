@@ -11,6 +11,7 @@
   "brandName": "Sønderborg",
   "enabledExtensions": [
     "conflictSearch",
-    "geokon"
+    "geokon",
+    "session"
   ]
 }
