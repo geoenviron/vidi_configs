@@ -20,6 +20,8 @@
    
   "enabledExtensions": [
     "conflictSearch",
+    "streetView",
+    "ejendom",
     "geokon"
   ]
 
