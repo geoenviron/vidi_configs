@@ -4,9 +4,7 @@
   ],
   "enabledSearch": "danish",
   "searchConfig": {
-    "komkode": [
-      "540"
-    ]
+    "komkode": "*"
   },
   "brandName": "Sønderborg",
   "enabledExtensions": [
