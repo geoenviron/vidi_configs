@@ -13,7 +13,15 @@
   ],
   
   "enabledSearch":"danish",
-  "searchConfig":{"komkode":["*"]},
-  "brandName":"GeoIndustri TEST"
-
+  
+  "searchConfig":{"komkode":"*"},
+  
+  "brandName":"GeoIndustri TEST",
+  
+  "enabledExtensions": [
+    "conflictSearch",
+    "geokon",
+    "session",
+    "streetView"
+    ]
 }
