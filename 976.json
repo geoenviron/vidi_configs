@@ -15,4 +15,14 @@
   "enabledSearch":"danish",
   "searchConfig":{"komkode":["461"]},
 							 
-  "brandName":"Odense TEST"}
+  "brandName":"Odense TEST",
+
+"enabledExtensions": [
+    "conflictSearch",
+    "streetView",
+    "ejendom",
+    "session",
+    "geokon"
+  ]
+
+}
