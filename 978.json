@@ -38,7 +38,7 @@
             }
         },
         {
-            "id": "_978.holmegaard4.rast",
+            "id": "_978.holmegaard4",
             "name": "Holmegaard",
             "db": "geokon",
             "host": "https://geokon.mapcentia.com",
