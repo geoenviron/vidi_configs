@@ -23,5 +23,76 @@
     "geokon",
     "session",
     "streetView"
+    ],
+  
+  "baseLayers": [
+	      {
+            "id": "geodk.bright",
+            "name": "GeoDanmark kort",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "_978.holmegaard4.rast",
+            "name": "Holmegaard",
+            "db": "geokon",
+            "host": "https://geokon.mapcentia.com",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 21
+            }
+        },  
+        {
+            "id": "luftfotoserier.geodanmark_2017_12_5cm",
+            "name": "Luftfoto 2017",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "luftfotoserier.geodanmark_2016_12_5cm",
+            "name": "Luftfoto 2016",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "kortforsyningen.dtk_lave_maalebordsblade",
+            "name": "Lave målebordsblade",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "kortforsyningen.dtk_hoeje_maalebordsblade",
+            "name": "Høje målebordsblade",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+
+        {"id": "osm", "name": "OSM"},
+        {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
     ]
 }
