@@ -69,18 +69,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },
-        {
-            "id": "luftfotoserier.geodanmark_2015_12_5cm",
-            "name": "Luftfoto 2015",
-            "db": "baselayers",
-            "host": "https://gc2.io",
-            "config": {
-                "maxZoom": 21,
-                "maxNativeZoom": 20,
-                "attribution": "&copy; SDFE & MapCentia ApS"
-            }
-        },
-	{
+     	{
             "id": "kortforsyningen.dtk_lave_maalebordsblade",
             "name": "Lave målebordsblade",
             "db": "baselayers",
