@@ -74,7 +74,7 @@
         },
 
         {"id": "osm", "name": "Open Street Map"},
-        {"id": "google", "name": "Google maps"},
+        {"id": "googlemaps", "name": "Google maps"},
         {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
     ]
 
