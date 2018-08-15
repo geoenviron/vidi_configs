@@ -14,7 +14,8 @@
     "streetView",
     "ejendom",
     "session",
-    "geokon"
+    "geokon",
+    "editor"
   ],
   "baseLayers": [
 	      {
