@@ -30,6 +30,16 @@
             }
         },
         {
+            "id": "luftfotoserier.geodanmark_2018_12_5cm",
+            "name": "Luftfoto 2018 (foreløbig version, ikke målfast",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },        {
             "id": "luftfotoserier.geodanmark_2017_12_5cm",
             "name": "Luftfoto 2017",
             "db": "baselayers",
@@ -53,7 +63,7 @@
         },
      	{
             "id": "kortforsyningen.dtk_lave_maalebordsblade",
-            "name": "Lave målebordsblade",
+            "name": "Lave målebordsblade (1928 - 1940)",
             "db": "baselayers",
             "host": "https://gc2.io",
             "config": {
@@ -64,7 +74,7 @@
         },
         {
             "id": "kortforsyningen.dtk_hoeje_maalebordsblade",
-            "name": "Høje målebordsblade",
+            "name": "Høje målebordsblade (1842 - 1899)",
             "db": "baselayers",
             "host": "https://gc2.io",
             "config": {
@@ -76,6 +86,11 @@
 
         {"id": "osm", "name": "Open Street Map"},
         {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
+		{"id": "googleStreets", "name": "Google Streets"},
+		{"id": "googleHybrid", "name": "Google Hybrid"},
+		{"id": "googleSatellite", "name": "Google Satellite"},
+		{"id": "googleTerrain", "name": "Google Terrain"}
+
     ]
 
 }
