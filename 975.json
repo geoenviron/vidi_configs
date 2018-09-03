@@ -31,7 +31,7 @@
         },
         {
             "id": "luftfotoserier.geodanmark_2018_12_5cm",
-            "name": "Luftfoto 2018 (foreløbig version, ikke målfast",
+            "name": "Luftfoto 2018 (foreløbig version, ikke målfast)",
             "db": "baselayers",
             "host": "https://gc2.io",
             "config": {
@@ -39,7 +39,8 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },        {
+        },        
+		{
             "id": "luftfotoserier.geodanmark_2017_12_5cm",
             "name": "Luftfoto 2017",
             "db": "baselayers",
