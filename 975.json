@@ -1,13 +1,13 @@
 {
   "schemata": [
-    "_978",
+    "_975",
     "tag:_GEbasis"
   ],
   "enabledSearch": "danish",
   "searchConfig": {
-    "komkode": "*"
+    "komkode": "540"
   },
-  "brandName": "Industri",
+  "brandName": "Sønderborg Test",
   "enabledExtensions": [
     "conflictSearch",
     "streetView",
@@ -29,14 +29,14 @@
       }
     },
     {
-      "id": "_978.holmegaard4",
-      "name": "Holmegaard",
-      "db": "geokon",
-      "host": "https://geokon.mapcentia.com",
+      "id": "luftfotoserier.quickorto_2018_16cm",
+      "name": "Luftfoto 2018 (Foreløbig version, ikke målfast)",
+      "db": "baselayers",
+      "host": "https://gc2.io",
       "config": {
         "maxZoom": 21,
-        "maxNativeZoom": 21,
-        "attribution": null
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
       }
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "id": "kortforsyningen.dtk_lave_maalebordsblade",
-      "name": "Lave målebordsblade",
+      "name": "Lave målebordsblade (1928 - 1940)",
       "db": "baselayers",
       "host": "https://gc2.io",
       "config": {
@@ -74,7 +74,7 @@
     },
     {
       "id": "kortforsyningen.dtk_hoeje_maalebordsblade",
-      "name": "Høje målebordsblade",
+      "name": "Høje målebordsblade (1842 - 1899)",
       "db": "baselayers",
       "host": "https://gc2.io",
       "config": {
