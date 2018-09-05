@@ -4,6 +4,6 @@
     "tag:_GEbasis"
   ],
   "enabledSearch": "danish",
-  "searchConfig":{"komkode":["*"]},
+  "searchConfig":{"komkode":"*"},
   "brandName": "Mapcentia4"
 }
