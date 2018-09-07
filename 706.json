@@ -1,21 +1,11 @@
 {
   "schemata": [
     "_706",
-    "gc2_io_dk_matrikel",
-    "gc2_io_dk_dai",
-    "gc2_io_dk_geodk",
-    "gc2_io_dk_dar",
-    "dhm",
-    "gc2_io_dk_dagi",
-    "gc2_io_dk_plansystemdk",
-    "gc2_io_dk_kulturarvsstyrelsen",
-    "gc2_io_dk_geus"
+    "tag:_GEbasis"
   ],
   "enabledSearch": "danish",
   "searchConfig": {
-    "komkode": [
-      "706"
-    ]
+    "komkode": "706"
   },
   "brandName": "Syddjurs"
 }
