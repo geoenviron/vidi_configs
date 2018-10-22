@@ -7,7 +7,7 @@
   "searchConfig": {
     "komkode": "540"
   },
-  "brandName": "Sønderborg DEMO",
+  "brandName": "Sønderborg Test",
   "enabledExtensions": [
     "conflictSearch",
     "streetView",
@@ -93,6 +93,34 @@
     {
       "id": "stamenTonerLite",
       "name": "Stamen Toner Light",
+      "db": null,
+      "host": null,
+      "config": null
+    },
+    {
+      "id": "googleStreets",
+      "name": "Google Streets",
+      "db": null,
+      "host": null,
+      "config": null
+    },
+    {
+      "id": "googleHybrid",
+      "name": "Google Hybrid",
+      "db": null,
+      "host": null,
+      "config": null
+    },
+    {
+      "id": "googleSatellite",
+      "name": "Google Satellite",
+      "db": null,
+      "host": null,
+      "config": null
+    },
+    {
+      "id": "googleTerrain",
+      "name": "Google Terrain",
       "db": null,
       "host": null,
       "config": null
