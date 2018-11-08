@@ -8,10 +8,10 @@
   "searchConfig": {
     "komkode": "540"
   },
-  "brandName": "Sønderborg Te",
+  "brandName": "Sønderborg Test",
   "enabledExtensions": [
     "conflictSearch",
-    "streetView",
+    
     "ejendom",
     "session",
     "geokon",
