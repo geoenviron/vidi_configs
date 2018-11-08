@@ -11,7 +11,7 @@
   "brandName": "Sønderborg Test",
   "enabledExtensions": [
     "conflictSearch",
-    
+    "streetView",
     "ejendom",
     "session",
     "geokon",
