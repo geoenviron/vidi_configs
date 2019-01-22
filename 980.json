@@ -9,4 +9,95 @@
     "komkode": "461"
   },
   "brandName": "Geo_BOM_Odense"
+"enabledExtensions": [
+    "conflictSearch",
+    "streetView",
+    "ejendom",
+    "session",
+    "geokon",
+    "editor"
+  ],
+  "baseLayers": [
+    {
+      "id": "geodk.bright",
+      "name": "GeoDanmark kort",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 19,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
+    {
+      "id": "luftfotoserier.quickorto_2018_16cm",
+      "name": "Luftfoto 2018 (Foreløbig version, ikke målfast)",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
+    {
+      "id": "luftfotoserier.geodanmark_2017_12_5cm",
+      "name": "Luftfoto 2017",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
+    {
+      "id": "luftfotoserier.geodanmark_2016_12_5cm",
+      "name": "Luftfoto 2016",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
+    {
+      "id": "kortforsyningen.dtk_lave_maalebordsblade",
+      "name": "Lave målebordsblade (1928 - 1940)",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
+    {
+      "id": "kortforsyningen.dtk_hoeje_maalebordsblade",
+      "name": "Høje målebordsblade (1842 - 1899)",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
+    {
+      "id": "osm",
+      "name": "Open Street Map",
+      "db": null,
+      "host": null,
+      "config": null
+    },
+    {
+      "id": "stamenTonerLite",
+      "name": "Stamen Toner Light",
+      "db": null,
+      "host": null,
+      "config": null
+    }
+  ]
+}
 }
