@@ -7,7 +7,7 @@
   "searchConfig": {
     "komkode": "*"
   },
-  "brandName": "Sønderborg DEMO",
+  "brandName": "dev_geoDK",
   "enabledExtensions": [
     "conflictSearch",
     "streetView",
