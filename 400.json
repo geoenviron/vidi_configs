@@ -7,5 +7,13 @@
   "searchConfig": {
     "komkode": "400"
   },
-  "brandName": "Bornholm"
+  "brandName": "Bornholm",
+  "enabledExtensions": [
+    "conflictSearch",
+    "streetView",
+    "ejendom",
+    "session", 
+    "geokon",
+    "editor"
+  ],
 }
