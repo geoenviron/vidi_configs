@@ -9,7 +9,6 @@
   },
   "brandName": "Bornholm",
   "enabledExtensions": [
-    "conflictSearch",
     "streetView",
     "ejendom",
     "session", 
