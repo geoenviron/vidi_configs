@@ -7,5 +7,13 @@
   "searchConfig": {
     "komkode": "657"
   },
-  "brandName": "Herning"
+  "brandName": "Herning",
+  "enabledExtensions": [
+    "conflictSearch",
+    "streetView",
+    "ejendom",
+    "session", 
+    "geokon",
+    "editor"
+  ],
 }
