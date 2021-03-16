@@ -9,7 +9,6 @@
   },
   "brandName": "Hedensted",
   "enabledExtensions": [
-    "conflictSearch",
     "streetView",
     "ejendom", 
     "geokon",
