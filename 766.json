@@ -11,8 +11,7 @@
   "enabledExtensions": [
     "conflictSearch",
     "streetView",
-    "ejendom",
-    "session", 
+    "ejendom", 
     "geokon",
     "editor"
   ],
