@@ -27,18 +27,7 @@
         "maxNativeZoom": 19,
         "attribution": "&copy; SDFE & MapCentia ApS"
       }
-    },
-    {
-      "id": "luftfotoserier.geodanmark_2022_12_5cm",
-      "name": "Luftfoto 2022",
-      "db": "baselayers",
-      "host": "https://gc2.io",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 20,
-        "attribution": "&copy; SDFE & MapCentia ApS"
-      }
-    },      
+    },     
     {
       "id": "luftfotoserier.geodanmark_2021_12_5cm",
       "name": "Luftfoto 2021",
@@ -72,17 +61,6 @@
         "attribution": "&copy; SDFE & MapCentia ApS"
       }
     },    
-    {
-      "id": "luftfotoserier.quickorto_2018_16cm",
-      "name": "Luftfoto 2018 (Foreløbig version, ikke målfast)",
-      "db": "baselayers",
-      "host": "https://gc2.io",
-      "config": {
-        "maxZoom": 21,
-        "maxNativeZoom": 20,
-        "attribution": "&copy; SDFE & MapCentia ApS"
-      }
-    },
     {
       "id": "luftfotoserier.geodanmark_2017_12_5cm",
       "name": "Luftfoto 2017",
