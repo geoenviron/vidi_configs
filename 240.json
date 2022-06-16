@@ -62,8 +62,8 @@
       }
     },    
     {
-      "id": "luftfotoserier.geodanmark_2018_15cm",
-      "name": "Luftfoto 2018",
+      "id": "luftfotoserier.quickorto_2018_16cm",
+      "name": "Luftfoto 2018 (Foreløbig version, ikke målfast)",
       "db": "baselayers",
       "host": "https://gc2.io",
       "config": {
