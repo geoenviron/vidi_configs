@@ -29,8 +29,8 @@
       }
     },
     {
-      "id": "luftfotoserier.geodanmark_2022_12_5cm",
-      "name": "Luftfoto 2022",
+      "id": "luftfotoserier.geodanmark_2023_12_5cm",
+      "name": "Luftfoto 2023",
       "db": "baselayers",
       "host": "https://gc2.io",
       "config": {
