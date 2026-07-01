@@ -28,6 +28,20 @@
         "attribution": "&copy; SDFE & MapCentia ApS"
       }
     },
+	{
+            "type": "wms",
+            "url": "https://api.dataforsyningen.dk/orto_foraar_DAF?token=eaca82e1cb411d78e841c7eba8ec1bbc",
+            "layers": [
+                "geodanmark_2024_12_5cm"
+            ],
+            "id": "geodanmark_2024_12_5cm",
+            "name": "Luftfoto 2024",
+            "description": "Ortofotos anvendes til ajourføring af de topografiske grunddata. Optagelsestidspunkt for ortofotos er om foråret før løvspring.",
+            "attribution": "Styrelsen for Dataforsyning og Effektivisering",
+            "maxZoom": 26,
+            "maxNativeZoom": 22,
+            "transparent": true
+        },
     {
       "id": "luftfotoserier.geodanmark_2021_12_5cm",
       "name": "Luftfoto 2021",
