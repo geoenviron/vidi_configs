@@ -29,6 +29,17 @@
       }
     },
     {
+      "id": "luftfotoserier.geodanmark_2025_12_5cm",
+      "name": "Luftfoto 2025",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    }, 
+    {
       "id": "luftfotoserier.geodanmark_2024_12_5cm",
       "name": "Luftfoto 2024",
       "db": "baselayers",
