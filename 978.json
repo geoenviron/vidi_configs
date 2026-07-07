@@ -17,7 +17,7 @@
     "geokon",
     "editor"
   ],
-  "baseLayers": [
+   "baseLayers": [
     {
       "id": "geodk.bright",
       "name": "GeoDanmark kort",
@@ -30,16 +30,49 @@
       }
     },
     {
-      "id": "_978.holmegaard4",
-      "name": "Holmegaard",
-      "db": "geokon",
-      "host": "https://mapgc2.geoenviron.dk",
+      "id": "luftfotoserier.geodanmark_2025_12_5cm",
+      "name": "Luftfoto 2025",
+      "db": "baselayers",
+      "host": "https://gc2.io",
       "config": {
         "maxZoom": 21,
-        "maxNativeZoom": 21,
-        "attribution": null
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    }, 
+    {
+      "id": "luftfotoserier.geodanmark_2024_12_5cm",
+      "name": "Luftfoto 2024",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
       }
     },
+    {
+      "id": "luftfotoserier.geodanmark_2023_12_5cm",
+      "name": "Luftfoto 2023",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },   
+    {
+      "id": "luftfotoserier.geodanmark_2022_12_5cm",
+      "name": "Luftfoto 2022",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },   
     {
       "id": "luftfotoserier.geodanmark_2021_12_5cm",
       "name": "Luftfoto 2021",
@@ -72,7 +105,18 @@
         "maxNativeZoom": 20,
         "attribution": "&copy; SDFE & MapCentia ApS"
       }
-    },    
+    },
+    {
+      "id": "luftfotoserier.quickorto_2018_16cm",
+      "name": "Luftfoto 2018 (Foreløbig version, ikke målfast)",
+      "db": "baselayers",
+      "host": "https://gc2.io",
+      "config": {
+        "maxZoom": 21,
+        "maxNativeZoom": 20,
+        "attribution": "&copy; SDFE & MapCentia ApS"
+      }
+    },
     {
       "id": "luftfotoserier.geodanmark_2017_12_5cm",
       "name": "Luftfoto 2017",
@@ -97,7 +141,7 @@
     },
     {
       "id": "kortforsyningen.dtk_lave_maalebordsblade",
-      "name": "Lave målebordsblade",
+      "name": "Lave målebordsblade (1928 - 1940)",
       "db": "baselayers",
       "host": "https://gc2.io",
       "config": {
@@ -108,7 +152,7 @@
     },
     {
       "id": "kortforsyningen.dtk_hoeje_maalebordsblade",
-      "name": "Høje målebordsblade",
+      "name": "Høje målebordsblade (1842 - 1899)",
       "db": "baselayers",
       "host": "https://gc2.io",
       "config": {
@@ -127,34 +171,6 @@
     {
       "id": "stamenTonerLite",
       "name": "Stamen Toner Light",
-      "db": null,
-      "host": null,
-      "config": null
-    },
-    {
-      "id": "googleStreets",
-      "name": "Google Streets",
-      "db": null,
-      "host": null,
-      "config": null
-    },
-    {
-      "id": "googleHybrid",
-      "name": "Google Hybrid",
-      "db": null,
-      "host": null,
-      "config": null
-    },
-    {
-      "id": "googleSatellite",
-      "name": "Google Satellite",
-      "db": null,
-      "host": null,
-      "config": null
-    },
-    {
-      "id": "googleTerrain",
-      "name": "Google Terrain",
       "db": null,
       "host": null,
       "config": null
